@@ -1,0 +1,9 @@
+{
+  "low_threshold": 35.64111454795945,
+  "high_threshold": 46.654968973772405,
+  "labels": [
+    "Low Waste",
+    "Medium Waste",
+    "High Waste"
+  ]
+}
